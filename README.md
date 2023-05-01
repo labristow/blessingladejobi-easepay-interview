@@ -17,7 +17,7 @@ pnpm dev
 ```
 
 ## Preview
-Alternatively, you can open [https://blessingladejobi-easepay-fe-interview.netlify.app]([[http://localhost:3000](https://blessingladejobi-easepay-fe-interview.netlify.app/)](https://blessingladejobi-easepay-fe-interview.netlify.app/)) with your browser to see the result.
+Alternatively, you can open [https://blessingladejobi-easepay-fe-interview.netlify.app](`https://blessingladejobi-easepay-fe-interview.netlify.app/`) with your browser to see the result.
 
 
 
