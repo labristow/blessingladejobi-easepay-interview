@@ -40,4 +40,4 @@ Alternatively, you can open [https://blessingladejobi-easepay-fe-interview.netli
 ![image](https://user-images.githubusercontent.com/38114969/235472472-80d14467-168e-45a9-a61f-51fac6d6c6e2.png)
 
 
-
+## NOTE: The only functionality I can see on the FIGMA design is removing the topbar and that has been implemented. The other one which looks like a functionality is the video play button. But there's no video to play with it so I left it like that.
