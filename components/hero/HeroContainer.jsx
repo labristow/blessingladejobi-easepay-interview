@@ -77,7 +77,7 @@ function HeroContainer() {
           >
             <source src={bgVideo} type='video/mp4; codecs="hvc1"'></source>
             <source src={bgVideo} type="video/webm"></source>
-            Sorry, your browser doesn't support embedded videos.
+            {/* Sorry, your browser doesn't support embedded videos. */}
           </video>
         </div>
 
@@ -111,8 +111,12 @@ function HeroContainer() {
       </div>
 
       <div className="w-full h-auto relative z-20 px-6 md:px-0 -mt-[24%] flex justify-center">
-        <Image src={HeroDashboardImage} alt="" className="w-full h-[36vh] md:h-[165vh]" />
-        <Image src={HeroPhoneImage} alt="" className="absolute -bottom-[16%]"/>
+        <Image
+          src={HeroDashboardImage}
+          alt=""
+          className="w-full h-[36vh] md:h-[165vh]"
+        />
+        <Image src={HeroPhoneImage} alt="" className="absolute -bottom-[16%]" />
       </div>
       <div className="h-auto md:h-[80vh] py-20 w-full flex flex-wrap md:flex-nowrap items-center justify-between px-6 md:px-[12%]">
         <Image src={Partner1} alt="" className="w-full scale-50 md:scale-75" />
