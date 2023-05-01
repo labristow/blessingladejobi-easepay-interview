@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EasePay Frontend Interview
 
 ## Getting Started
 
-First, run the development server:
+#### 1. Clone the github repository - (**second-phase branch**)
+
+#### 2. Install the neccessary dependencies using `npm install` command
+
+#### 3. Then, run the development server to view the application:
 
 ```bash
 npm run dev
@@ -12,27 +16,28 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Preview
+Alternatively, you can open [https://blessingladejobi-easepay-fe-interview.netlify.app](`https://blessingladejobi-easepay-fe-interview.netlify.app/`) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Screenshots of the implemented interface
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### Hero snapshot 1 on large screen
+![image](https://user-images.githubusercontent.com/38114969/235471685-61bab5ad-f577-4c12-97a9-534af5bc4bb2.png)
 
-## Learn More
+#### Hero snapshot 2 on large screen
+![image](https://user-images.githubusercontent.com/38114969/235471987-15cc786b-6a67-4388-a520-467d916363dc.png)
 
-To learn more about Next.js, take a look at the following resources:
+#### Hero snapshot 3 on large screen
+![image](https://user-images.githubusercontent.com/38114969/235472155-2b570dc3-6043-4c59-b1fa-c275632a71e0.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### Hero snapshot 1 on mobile screen
+![image](https://user-images.githubusercontent.com/38114969/235472357-6f7c4ed4-0a18-4ba3-8a66-80927fde3db4.png)
 
-## Deploy on Vercel
+#### Hero snapshot 2 on mobile screen
+![image](https://user-images.githubusercontent.com/38114969/235472472-80d14467-168e-45a9-a61f-51fac6d6c6e2.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## NOTE: The only functionality I can see on the FIGMA design is removing the topbar and that has been implemented. The other one which looks like a functionality is the video play button. But there's no video to play with it so I left it like that.
