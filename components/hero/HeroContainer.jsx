@@ -114,7 +114,7 @@ function HeroContainer() {
         <Image
           src={HeroDashboardImage}
           alt=""
-          className="w-full h-[36vh] md:h-[165vh]"
+          className="w-full h-[36vh] md:h-[165vh] hover:opacity-70 transition-all duration-500"
         />
         <Image src={HeroPhoneImage} alt="" className="absolute -bottom-[16%]" />
       </div>
