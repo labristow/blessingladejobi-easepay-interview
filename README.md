@@ -41,3 +41,13 @@ Alternatively, you can open [https://blessingladejobi-easepay-fe-interview.netli
 
 
 ## NOTE: The only functionality I can see on the FIGMA design is removing the topbar and that has been implemented. The other one which looks like a functionality is the video play button. But there's no video to play with it so I left it like that.
+
+### What I did
+1. I used typscript
+2. I used NextJs
+3. I used tailwind utility classes for responsiveness and pixel customization
+4. I add all the animations
+5. I made the application mobile responsive.
+
+#### What I couldn't do
+1. Implementing some components like buttons, and navlinks with styled components.
